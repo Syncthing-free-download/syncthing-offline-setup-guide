@@ -11,15 +11,15 @@
 
 🎯 What You Unlock
 
-    🔓 Secure peer-to-peer file synchronization
+🔓 Secure peer-to-peer file synchronization
 
-    🔐 Encrypted data transfer without central server
+🔐 Encrypted data transfer without central server
 
-    🔄 Real-time sync between multiple devices
+🔄 Real-time sync between multiple devices
 
-    ⚙️ Offline configuration and key management
+⚙️ Offline configuration and key management
 
-    🛠 No internet required during installation or sync
+ 🛠 No internet required during installation or sync
 
 🖼 Preview
 
